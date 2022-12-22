@@ -1,7 +1,6 @@
 # BtcTurk.ApiClient (Turkish)
 BtcTurk Api Client
 
-!!! Dikkat: Bu kanyak https://github.com/BTCTrader/broker-api-csharp adresinden uyarlanmıştır. Dontet 2.1 den 6.0 a yükseltilmiş ve bazı iyileştirmeler yapılmıştır.
 
 Api Clientını pro.btcturk.com üzerinde kullanabilirsiniz 
 
