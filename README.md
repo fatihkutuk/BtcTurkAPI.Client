@@ -22,7 +22,6 @@ Bağış:
 # BtcTurk.ApiClient (English)
 BtcTurk Api Client
 
-!!! Attention: This resources is adapted from https://github.com/BTCTrader/broker-api-csharp. It upgrated .net 2.1 to 6.0 and fixes some isues.
 
 C# api client for pro.btcturk.com , u can use this api on btcturk platfrom. 
 
